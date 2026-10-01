@@ -6,5 +6,6 @@ cd 文件夹名:进入文件夹。
 cd ..:'返回上一级'。
 cd ~:回到主目录。（/home/codespace）
 cd /:去根目录。
-cd -:回到刚才呆过的目录。
+cd -:回到刚才呆过的目录
+today is the second day i learn linux ,i feel better than yesterday.。
 
